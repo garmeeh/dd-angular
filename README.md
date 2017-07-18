@@ -1,4 +1,11 @@
-# DdAngular
+# DoneDeal Angular Test
+Sample Angular app testing built in a couple of hours during a workshop exploring Angular
+as the next progression from our current version of Angularjs. 
+
+To get started head over to [Angular CLI](https://github.com/angular/angular-cli) and install the 
+Angular CLI. 
+
+Then pull down the project, run `yarn install` and have a look at the CLI commands below.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1.
 
